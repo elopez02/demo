@@ -1,2 +1,1 @@
-Conflict!!!!!!
-Conflicto!!!
+Hello world!!!
